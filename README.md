@@ -5,15 +5,15 @@ ErrorHandler is a comprehensive diagnostic tool designed to evaluate and repair 
 
 # Features
 ## System File Integrity Checks: 
-    Detects and repairs corrupted or missing system files to ensure smooth operation.
+Detects and repairs corrupted or missing system files to ensure smooth operation.
 ## Disk Performance Analysis: 
-    Measures disk speed and performance, providing actionable insights to optimize storage systems.
+Measures disk speed and performance, providing actionable insights to optimize storage systems.
 ## Memory Diagnostics: 
-    Evaluates RAM performance and stability, helping identify potential bottlenecks or failures.
+ Evaluates RAM performance and stability, helping identify potential bottlenecks or failures.
 ## System Performance Optimization: 
-    Provides recommendations and simulated fixes to improve overall system responsiveness and reliability.
+  Provides recommendations and simulated fixes to improve overall system responsiveness and reliability.
 ## User-Friendly Interface: 
-    Offers a clear, intuitive GUI with progress indicators and detailed logs for each diagnostic step.
+ Offers a clear, intuitive GUI with progress indicators and detailed logs for each diagnostic step.
 
 # Usage
 Download and run the tool.
